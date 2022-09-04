@@ -11,7 +11,6 @@ C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0
 C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\ResourceDictionaries\Styles.xbf
 C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\ResourceDictionaries\SysTrayResources.xbf
 C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Windows\PopUpWindow.xbf
-C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Windows\SysTray.xbf
 C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Resources\logo.png
 C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.22621.0\Redist\Debug\x64\ucrtbased.dll
 C:\Users\Siddharth\source\repos\Synergy\Synergy (Package)\Images\logo.png
@@ -60,7 +59,6 @@ C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0
 C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\ResourceDictionaries\Styles.xbf
 C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\ResourceDictionaries\SysTrayResources.xbf
 C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\Windows\PopUpWindow.xbf
-C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\Windows\SysTray.xbf
 C:\Users\Siddharth\source\repos\Synergy\Synergy\Resources\logo.png
 C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\apphost.exe
 C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Synergy.runtimeconfig.json

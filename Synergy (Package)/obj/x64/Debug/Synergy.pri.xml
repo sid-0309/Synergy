@@ -80,11 +80,6 @@
 						<Value>Windows\PopUpWindow.xbf</Value>
 					</Candidate>
 				</NamedResource>
-				<NamedResource name="SysTray.xbf" uri="ms-resource://Synergy/Files/Windows/SysTray.xbf">
-					<Candidate type="Path">
-						<Value>Windows\SysTray.xbf</Value>
-					</Candidate>
-				</NamedResource>
 			</ResourceMapSubtree>
 		</ResourceMapSubtree>
 	</ResourceMap>

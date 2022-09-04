@@ -14,17 +14,17 @@
 
     <XamlUICommand
         x:Key="ShowHideWindowCommand"
-        Label="show/hide window"
+        Label="Show/Hide"
         Description="show/hide window descr"/>
     <XamlUICommand
         x:Key="ExitApplicationCommand"
-        Label="exit application"
-        Description="exit application descr"/>
+        Label="Exit"
+        Description="Exit application descr"/>
 
     <tb:TaskbarIcon
         x:Key="trayIcon"
         Visibility="Visible"
-        ToolTipText="Tool Tip Text"
+        ToolTipText="Synergy"
         ContextMenuMode="SecondWindow"
         LeftClickCommand="{StaticResource ShowHideWindowCommand}">
 

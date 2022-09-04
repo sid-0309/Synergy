@@ -70,7 +70,7 @@ namespace Synergy
             if (m_window == null)
             {
                 m_window = new Window();
-                m_window.Show();
+                m_window.Activate();
                 return;
             }
 

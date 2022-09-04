@@ -11,7 +11,6 @@ C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0
 C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\ResourceDictionaries\Styles.xbf
 C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\ResourceDictionaries\SysTrayResources.xbf
 C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Windows\PopUpWindow.xbf
-C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Windows\SysTray.xbf
 C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Resources\logo.png
 C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Synergy.exe
 C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Synergy.deps.json
@@ -65,8 +64,6 @@ C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0
 C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\Pages\UploadPage.g.cs
 C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\Windows\PopUpWindow.g.i.cs
 C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\Windows\PopUpWindow.g.cs
-C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\Windows\SysTray.g.i.cs
-C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\Windows\SysTray.g.cs
 C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\XamlTypeInfo.g.cs
 C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\App.xaml
 C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\MainWindow.xaml
@@ -80,7 +77,6 @@ C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0
 C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\Pages\UploadPage.xaml
 C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\ResourceDictionaries\SysTrayResources.xaml
 C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\Windows\PopUpWindow.xaml
-C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\Windows\SysTray.xaml
 C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\ResourceDictionaries\Styles.xaml
 C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\App.xbf
 C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\MainWindow.xbf
@@ -94,7 +90,6 @@ C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0
 C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\Pages\UploadPage.xbf
 C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\ResourceDictionaries\SysTrayResources.xbf
 C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\Windows\PopUpWindow.xbf
-C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\Windows\SysTray.xbf
 C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\ResourceDictionaries\Styles.xbf
 C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\XamlSaveStateFile.xml
 C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\Synergy.GeneratedMSBuildEditorConfig.editorconfig

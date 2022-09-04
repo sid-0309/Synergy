@@ -30,69 +30,65 @@
     <AppXManifest Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\bin\x64\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-09-04T13:16:57.180</Modified>
+      <Modified>2022-09-04T19:48:08.013</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2022-09-04T13:15:46.920</Modified>
+      <Modified>2022-09-04T19:48:07.372</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\MainWindow.xbf">
       <PackagePath>MainWindow.xbf</PackagePath>
-      <Modified>2022-09-04T13:15:46.920</Modified>
+      <Modified>2022-09-04T19:48:07.372</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Pages\DownloadPage.xbf">
       <PackagePath>Pages\DownloadPage.xbf</PackagePath>
-      <Modified>2022-09-04T13:15:46.920</Modified>
+      <Modified>2022-09-04T19:48:07.372</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Pages\RemoteContent.xbf">
       <PackagePath>Pages\RemoteContent.xbf</PackagePath>
-      <Modified>2022-09-04T13:15:46.920</Modified>
+      <Modified>2022-09-04T19:48:07.372</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Pages\RemotesPage.xbf">
       <PackagePath>Pages\RemotesPage.xbf</PackagePath>
-      <Modified>2022-09-04T13:15:46.920</Modified>
+      <Modified>2022-09-04T19:48:07.372</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Pages\Scheduler.xbf">
       <PackagePath>Pages\Scheduler.xbf</PackagePath>
-      <Modified>2022-09-04T13:15:46.920</Modified>
+      <Modified>2022-09-04T19:48:07.372</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Pages\ServePage.xbf">
       <PackagePath>Pages\ServePage.xbf</PackagePath>
-      <Modified>2022-09-04T13:15:46.920</Modified>
+      <Modified>2022-09-04T19:48:07.372</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Pages\SyncPage.xbf">
       <PackagePath>Pages\SyncPage.xbf</PackagePath>
-      <Modified>2022-09-04T13:15:46.920</Modified>
+      <Modified>2022-09-04T19:48:07.372</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Pages\TasksPage.xbf">
       <PackagePath>Pages\TasksPage.xbf</PackagePath>
-      <Modified>2022-09-04T13:15:46.920</Modified>
+      <Modified>2022-09-04T19:48:07.372</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Pages\UploadPage.xbf">
       <PackagePath>Pages\UploadPage.xbf</PackagePath>
-      <Modified>2022-09-04T13:15:46.920</Modified>
+      <Modified>2022-09-04T19:48:07.372</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\ResourceDictionaries\Styles.xbf">
       <PackagePath>ResourceDictionaries\Styles.xbf</PackagePath>
-      <Modified>2022-09-04T13:15:46.920</Modified>
+      <Modified>2022-09-04T19:48:07.356</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\ResourceDictionaries\SysTrayResources.xbf">
       <PackagePath>ResourceDictionaries\SysTrayResources.xbf</PackagePath>
-      <Modified>2022-09-04T13:15:46.920</Modified>
+      <Modified>2022-09-04T19:48:07.372</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Windows\PopUpWindow.xbf">
       <PackagePath>Windows\PopUpWindow.xbf</PackagePath>
-      <Modified>2022-09-04T13:15:46.920</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Windows\SysTray.xbf">
-      <PackagePath>Windows\SysTray.xbf</PackagePath>
-      <Modified>2022-09-04T13:15:46.920</Modified>
+      <Modified>2022-09-04T19:48:07.372</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Resources\logo.png">
       <PackagePath>Resources\logo.png</PackagePath>
-      <Modified>2022-08-06T16:48:49.833</Modified>
+      <Modified>2022-09-04T19:07:56.935</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.22621.0\Redist\Debug\x64\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -138,7 +134,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-09-04T12:40:30.693</Modified>
+      <Modified>2022-09-04T19:44:48.718</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\.nuget\packages\h.notifyicon\2.0.64\lib\net6.0\H.NotifyIcon.dll">
       <PackagePath>Synergy\H.NotifyIcon.dll</PackagePath>
@@ -234,63 +230,59 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Synergy.deps.json">
       <PackagePath>Synergy\Synergy.deps.json</PackagePath>
-      <Modified>2022-09-04T12:40:29.619</Modified>
+      <Modified>2022-09-04T19:44:47.827</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\App.xbf">
       <PackagePath>Synergy\App.xbf</PackagePath>
-      <Modified>2022-09-04T13:15:46.920</Modified>
+      <Modified>2022-09-04T19:48:07.372</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\MainWindow.xbf">
       <PackagePath>Synergy\MainWindow.xbf</PackagePath>
-      <Modified>2022-09-04T13:15:46.920</Modified>
+      <Modified>2022-09-04T19:48:07.372</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\Pages\DownloadPage.xbf">
       <PackagePath>Synergy\Pages\DownloadPage.xbf</PackagePath>
-      <Modified>2022-09-04T13:15:46.920</Modified>
+      <Modified>2022-09-04T19:48:07.372</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\Pages\RemoteContent.xbf">
       <PackagePath>Synergy\Pages\RemoteContent.xbf</PackagePath>
-      <Modified>2022-09-04T13:15:46.920</Modified>
+      <Modified>2022-09-04T19:48:07.372</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\Pages\RemotesPage.xbf">
       <PackagePath>Synergy\Pages\RemotesPage.xbf</PackagePath>
-      <Modified>2022-09-04T13:15:46.920</Modified>
+      <Modified>2022-09-04T19:48:07.372</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\Pages\Scheduler.xbf">
       <PackagePath>Synergy\Pages\Scheduler.xbf</PackagePath>
-      <Modified>2022-09-04T13:15:46.920</Modified>
+      <Modified>2022-09-04T19:48:07.372</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\Pages\ServePage.xbf">
       <PackagePath>Synergy\Pages\ServePage.xbf</PackagePath>
-      <Modified>2022-09-04T13:15:46.920</Modified>
+      <Modified>2022-09-04T19:48:07.372</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\Pages\SyncPage.xbf">
       <PackagePath>Synergy\Pages\SyncPage.xbf</PackagePath>
-      <Modified>2022-09-04T13:15:46.920</Modified>
+      <Modified>2022-09-04T19:48:07.372</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\Pages\TasksPage.xbf">
       <PackagePath>Synergy\Pages\TasksPage.xbf</PackagePath>
-      <Modified>2022-09-04T13:15:46.920</Modified>
+      <Modified>2022-09-04T19:48:07.372</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\Pages\UploadPage.xbf">
       <PackagePath>Synergy\Pages\UploadPage.xbf</PackagePath>
-      <Modified>2022-09-04T13:15:46.920</Modified>
+      <Modified>2022-09-04T19:48:07.372</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\ResourceDictionaries\Styles.xbf">
       <PackagePath>Synergy\ResourceDictionaries\Styles.xbf</PackagePath>
-      <Modified>2022-09-04T13:15:46.920</Modified>
+      <Modified>2022-09-04T19:48:07.356</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\ResourceDictionaries\SysTrayResources.xbf">
       <PackagePath>Synergy\ResourceDictionaries\SysTrayResources.xbf</PackagePath>
-      <Modified>2022-09-04T13:15:46.920</Modified>
+      <Modified>2022-09-04T19:48:07.372</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\Windows\PopUpWindow.xbf">
       <PackagePath>Synergy\Windows\PopUpWindow.xbf</PackagePath>
-      <Modified>2022-09-04T13:15:46.920</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\Windows\SysTray.xbf">
-      <PackagePath>Synergy\Windows\SysTray.xbf</PackagePath>
-      <Modified>2022-09-04T13:15:46.920</Modified>
+      <Modified>2022-09-04T19:48:07.372</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\Resources\logo.png">
       <PackagePath>Synergy\Resources\logo.png</PackagePath>
@@ -298,15 +290,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\apphost.exe">
       <PackagePath>Synergy\Synergy.exe</PackagePath>
-      <Modified>2022-09-04T13:16:56.694</Modified>
+      <Modified>2022-09-04T19:48:07.513</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Synergy.runtimeconfig.json">
       <PackagePath>Synergy\Synergy.runtimeconfig.json</PackagePath>
-      <Modified>2022-09-04T12:40:29.678</Modified>
+      <Modified>2022-09-04T19:21:55.053</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Synergy.dll">
       <PackagePath>Synergy\Synergy.dll</PackagePath>
-      <Modified>2022-09-04T13:16:56.686</Modified>
+      <Modified>2022-09-04T19:48:07.513</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

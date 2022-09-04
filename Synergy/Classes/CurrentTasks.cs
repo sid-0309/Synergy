@@ -12,6 +12,7 @@ namespace Synergy.Classes
         public static Singleton Instance { get { return instance.Value; } }
 
         private List<System.Diagnostics.Process> CurrentTasks = new();
+        private List<System.Diagnostics.Process> SavedTasks = new();
 
         public List<System.Diagnostics.Process> GetTasks
         {

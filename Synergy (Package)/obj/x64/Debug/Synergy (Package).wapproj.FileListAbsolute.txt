@@ -12,7 +12,6 @@ C:\Users\Siddharth\source\repos\Synergy\Synergy (Package)\bin\x64\Debug\Resource
 C:\Users\Siddharth\source\repos\Synergy\Synergy (Package)\bin\x64\Debug\ResourceDictionaries\SysTrayResources.xbf
 C:\Users\Siddharth\source\repos\Synergy\Synergy (Package)\bin\x64\Debug\Resources\logo.png
 C:\Users\Siddharth\source\repos\Synergy\Synergy (Package)\bin\x64\Debug\Windows\PopUpWindow.xbf
-C:\Users\Siddharth\source\repos\Synergy\Synergy (Package)\bin\x64\Debug\Windows\SysTray.xbf
 C:\Users\Siddharth\source\repos\Synergy\Synergy (Package)\bin\x64\Debug\Synergy\H.NotifyIcon.dll
 C:\Users\Siddharth\source\repos\Synergy\Synergy (Package)\bin\x64\Debug\Synergy\H.NotifyIcon.WinUI.dll
 C:\Users\Siddharth\source\repos\Synergy\Synergy (Package)\bin\x64\Debug\Synergy\Microsoft.Win32.SystemEvents.dll
@@ -50,7 +49,6 @@ C:\Users\Siddharth\source\repos\Synergy\Synergy (Package)\bin\x64\Debug\Synergy\
 C:\Users\Siddharth\source\repos\Synergy\Synergy (Package)\bin\x64\Debug\Synergy\ResourceDictionaries\Styles.xbf
 C:\Users\Siddharth\source\repos\Synergy\Synergy (Package)\bin\x64\Debug\Synergy\ResourceDictionaries\SysTrayResources.xbf
 C:\Users\Siddharth\source\repos\Synergy\Synergy (Package)\bin\x64\Debug\Synergy\Windows\PopUpWindow.xbf
-C:\Users\Siddharth\source\repos\Synergy\Synergy (Package)\bin\x64\Debug\Synergy\Windows\SysTray.xbf
 C:\Users\Siddharth\source\repos\Synergy\Synergy (Package)\bin\x64\Debug\Synergy\Resources\logo.png
 C:\Users\Siddharth\source\repos\Synergy\Synergy (Package)\bin\x64\Debug\Synergy\Synergy.exe
 C:\Users\Siddharth\source\repos\Synergy\Synergy (Package)\bin\x64\Debug\Synergy\Synergy.runtimeconfig.json

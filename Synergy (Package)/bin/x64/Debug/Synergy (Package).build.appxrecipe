@@ -64,9 +64,6 @@
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Windows\PopUpWindow.xbf">
       <PackagePath>Windows\PopUpWindow.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Windows\SysTray.xbf">
-      <PackagePath>Windows\SysTray.xbf</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Resources\logo.png">
       <PackagePath>Resources\logo.png</PackagePath>
     </AppxPackagedFile>
@@ -216,9 +213,6 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\Windows\PopUpWindow.xbf">
       <PackagePath>Synergy\Windows\PopUpWindow.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\Windows\SysTray.xbf">
-      <PackagePath>Synergy\Windows\SysTray.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\Resources\logo.png">
       <PackagePath>Synergy\Resources\logo.png</PackagePath>
