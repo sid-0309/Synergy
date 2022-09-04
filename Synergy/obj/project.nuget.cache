@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "oenKuWs5/bmWREiVjvtdlP6GQ8EjCyDAEjMqACx9LlHevgs6FXvzip9X1Mm1qqj8bm0h+93vyKFYipnPjsF/mA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Siddharth\\source\\repos\\Synergy\\Synergy\\Synergy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Siddharth\\.nuget\\packages\\h.notifyicon\\2.0.64\\h.notifyicon.2.0.64.nupkg.sha512",
+    "C:\\Users\\Siddharth\\.nuget\\packages\\h.notifyicon.winui\\2.0.64\\h.notifyicon.winui.2.0.64.nupkg.sha512",
+    "C:\\Users\\Siddharth\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Siddharth\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22000.194\\microsoft.windows.sdk.buildtools.10.0.22000.194.nupkg.sha512",
+    "C:\\Users\\Siddharth\\.nuget\\packages\\microsoft.windowsappsdk\\1.1.4\\microsoft.windowsappsdk.1.1.4.nupkg.sha512",
+    "C:\\Users\\Siddharth\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Siddharth\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.7\\microsoft.netcore.app.runtime.win-x64.6.0.7.nupkg.sha512",
+    "C:\\Users\\Siddharth\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.7\\microsoft.aspnetcore.app.runtime.win-x64.6.0.7.nupkg.sha512",
+    "C:\\Users\\Siddharth\\.nuget\\packages\\microsoft.netcore.app.runtime.win-arm64\\6.0.7\\microsoft.netcore.app.runtime.win-arm64.6.0.7.nupkg.sha512",
+    "C:\\Users\\Siddharth\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.7\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.7.nupkg.sha512",
+    "C:\\Users\\Siddharth\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.26\\microsoft.windows.sdk.net.ref.10.0.19041.26.nupkg.sha512",
+    "C:\\Users\\Siddharth\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-arm64\\6.0.7\\microsoft.aspnetcore.app.runtime.win-arm64.6.0.7.nupkg.sha512",
+    "C:\\Users\\Siddharth\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.7\\microsoft.netcore.app.runtime.win-x86.6.0.7.nupkg.sha512",
+    "C:\\Users\\Siddharth\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-arm64\\6.0.7\\microsoft.windowsdesktop.app.runtime.win-arm64.6.0.7.nupkg.sha512",
+    "C:\\Users\\Siddharth\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.7\\microsoft.aspnetcore.app.runtime.win-x86.6.0.7.nupkg.sha512",
+    "C:\\Users\\Siddharth\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.7\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

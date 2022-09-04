@@ -1,0 +1,59 @@
+{
+  "version": 2,
+  "dgSpecHash": "gfCJmKAchmZ3ymz3zJOh5wUIwu78zE6kMFiugu2VScxYcir/P5IgXHMLxInPQcEJMU0AFD55cGWWhyeDzNoXhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Siddharth\\source\\repos\\Synergy\\Synergy (Package)\\Synergy (Package).wapproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Siddharth\\.nuget\\packages\\h.notifyicon\\2.0.64\\h.notifyicon.2.0.64.nupkg.sha512",
+    "C:\\Users\\Siddharth\\.nuget\\packages\\h.notifyicon.winui\\2.0.64\\h.notifyicon.winui.2.0.64.nupkg.sha512",
+    "C:\\Users\\Siddharth\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22000.194\\microsoft.windows.sdk.buildtools.10.0.22000.194.nupkg.sha512",
+    "C:\\Users\\Siddharth\\.nuget\\packages\\microsoft.windowsappsdk\\1.0.3\\microsoft.windowsappsdk.1.0.3.nupkg.sha512",
+    "C:\\Users\\Siddharth\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'H.NotifyIcon.WinUI 2.0.64' was restored using 'net6.0-windows10.0.22621, .NETCoreApp,Version=v3.1, .NETCoreApp,Version=v3.0, .NETCoreApp,Version=v2.0, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, net7.0-windows10.0.22621, .NETFramework,Version=v4.6.1' instead of the project target framework 'UAP,Version=v10.0.17763'. This package may not be fully compatible with your project.",
+      "libraryId": "H.NotifyIcon.WinUI",
+      "targetGraphs": [
+        "UAP,Version=v10.0.17763"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Microsoft.WindowsAppSDK from 1.1.4 to 1.0.3. Reference the package directly from the project to select a different version. \r\n Synergy (Package) -> H.NotifyIcon.WinUI 2.0.64 -> Microsoft.WindowsAppSDK (>= 1.1.4) \r\n Synergy (Package) -> Microsoft.WindowsAppSDK (= 1.0.3)",
+      "libraryId": "Microsoft.WindowsAppSDK",
+      "targetGraphs": [
+        "UAP,Version=v10.0.17763",
+        "UAP,Version=v10.0.17763/win10-arm",
+        "UAP,Version=v10.0.17763/win10-arm-aot",
+        "UAP,Version=v10.0.17763/win10-arm64-aot",
+        "UAP,Version=v10.0.17763/win10-x64",
+        "UAP,Version=v10.0.17763/win10-x64-aot",
+        "UAP,Version=v10.0.17763/win10-x86",
+        "UAP,Version=v10.0.17763/win10-x86-aot"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Microsoft.WindowsAppSDK from 1.1.4 to 1.0.3. Reference the package directly from the project to select a different version. \r\n Synergy (Package) -> Synergy -> Microsoft.WindowsAppSDK (>= 1.1.4) \r\n Synergy (Package) -> Microsoft.WindowsAppSDK (= 1.0.3)",
+      "libraryId": "Microsoft.WindowsAppSDK",
+      "targetGraphs": [
+        "UAP,Version=v10.0.17763",
+        "UAP,Version=v10.0.17763/win10-arm",
+        "UAP,Version=v10.0.17763/win10-arm-aot",
+        "UAP,Version=v10.0.17763/win10-arm64-aot",
+        "UAP,Version=v10.0.17763/win10-x64",
+        "UAP,Version=v10.0.17763/win10-x64-aot",
+        "UAP,Version=v10.0.17763/win10-x86",
+        "UAP,Version=v10.0.17763/win10-x86-aot"
+      ]
+    }
+  ]
+}
