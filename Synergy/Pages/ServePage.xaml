@@ -1,0 +1,47 @@
+﻿<Page
+    x:Class="Synergy.Pages.ServePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Synergy.Pages"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid RowSpacing="5" ColumnSpacing="5" Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.25*"/>
+            <RowDefinition Height="0.25*"/>
+            <RowDefinition Height="0.25*"/>
+            <RowDefinition Height="0.25*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.5*"/>
+            <ColumnDefinition Width="0.5*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Grid.Row="0" Grid.ColumnSpan="2" Text="{x:Bind receivedArguments.Source}" Foreground="WhiteSmoke"/>
+        <TextBox x:Name="uname" PlaceholderText="Username" Grid.Column="0" Grid.Row="2" PlaceholderForeground="Gray" TextChanged="uname_TextChanged" IsEnabled="False"/>
+        <PasswordBox x:Name="passwd" PlaceholderText="Password" Grid.Column="1" Grid.Row="2" PasswordChanged="passwd_PasswordChanged" IsEnabled="False"/>
+        <Grid Grid.Row="1" Grid.ColumnSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.2*"/>
+                <ColumnDefinition Width="0.6*"/>
+                <ColumnDefinition Width="0.2*"/>
+            </Grid.ColumnDefinitions>
+            <ComboBox x:Name="protocolDropDown" SelectedIndex="1" SelectionChanged="protocolDropDown_SelectionChanged">
+                <ComboBoxItem Content="FTP"/>
+                <ComboBoxItem Content="HTTP"/>
+                <ComboBoxItem Content="WebDAV"/>
+                <ComboBoxItem Content="DLNA"/>
+                <ComboBoxItem Content="SFTP"/>
+                <ComboBoxItem Content="Docker"/>
+                <ComboBoxItem Content="REST API"/>
+            </ComboBox>
+            <TextBox Grid.Column="1" x:Name="ipBox" Text="127.0.0.1" PlaceholderForeground="Gray" PlaceholderText="IP Address" TextChanged="ipBox_TextChanged"/>
+            <TextBox Grid.Column="2" x:Name="portBox" Text="8080" PlaceholderText="Port" PlaceholderForeground="Gray" TextChanged="portBox_TextChanged"/>
+        </Grid>
+        <Button Content="Advanced" Grid.Column="0" Grid.Row="3" HorizontalAlignment="Left"/>
+        <Button Content="Start" Grid.Column="1" Grid.Row="3" HorizontalAlignment="Right" Click="Start_Serve"/>
+
+    </Grid>
+</Page>

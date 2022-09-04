@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "Synergy (Package)", "Synergy (Package)\Synergy (Package).wapproj", "{79B2764B-B588-43D8-AA44-DB1B1026E385}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Synergy", "Synergy\Synergy.csproj", "{B74BEB24-B90D-47DC-8717-15AFDE7BFD36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|arm64 = Debug|arm64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|arm64 = Release|arm64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79B2764B-B588-43D8-AA44-DB1B1026E385}.Debug|arm64.ActiveCfg = Debug|arm64
+		{79B2764B-B588-43D8-AA44-DB1B1026E385}.Debug|arm64.Build.0 = Debug|arm64
+		{79B2764B-B588-43D8-AA44-DB1B1026E385}.Debug|arm64.Deploy.0 = Debug|arm64
+		{79B2764B-B588-43D8-AA44-DB1B1026E385}.Debug|x64.ActiveCfg = Debug|x64
+		{79B2764B-B588-43D8-AA44-DB1B1026E385}.Debug|x64.Build.0 = Debug|x64
+		{79B2764B-B588-43D8-AA44-DB1B1026E385}.Debug|x64.Deploy.0 = Debug|x64
+		{79B2764B-B588-43D8-AA44-DB1B1026E385}.Debug|x86.ActiveCfg = Debug|x86
+		{79B2764B-B588-43D8-AA44-DB1B1026E385}.Debug|x86.Build.0 = Debug|x86
+		{79B2764B-B588-43D8-AA44-DB1B1026E385}.Debug|x86.Deploy.0 = Debug|x86
+		{79B2764B-B588-43D8-AA44-DB1B1026E385}.Release|arm64.ActiveCfg = Release|arm64
+		{79B2764B-B588-43D8-AA44-DB1B1026E385}.Release|arm64.Build.0 = Release|arm64
+		{79B2764B-B588-43D8-AA44-DB1B1026E385}.Release|arm64.Deploy.0 = Release|arm64
+		{79B2764B-B588-43D8-AA44-DB1B1026E385}.Release|x64.ActiveCfg = Release|x64
+		{79B2764B-B588-43D8-AA44-DB1B1026E385}.Release|x64.Build.0 = Release|x64
+		{79B2764B-B588-43D8-AA44-DB1B1026E385}.Release|x64.Deploy.0 = Release|x64
+		{79B2764B-B588-43D8-AA44-DB1B1026E385}.Release|x86.ActiveCfg = Release|x86
+		{79B2764B-B588-43D8-AA44-DB1B1026E385}.Release|x86.Build.0 = Release|x86
+		{79B2764B-B588-43D8-AA44-DB1B1026E385}.Release|x86.Deploy.0 = Release|x86
+		{B74BEB24-B90D-47DC-8717-15AFDE7BFD36}.Debug|arm64.ActiveCfg = Debug|arm64
+		{B74BEB24-B90D-47DC-8717-15AFDE7BFD36}.Debug|arm64.Build.0 = Debug|arm64
+		{B74BEB24-B90D-47DC-8717-15AFDE7BFD36}.Debug|x64.ActiveCfg = Debug|x64
+		{B74BEB24-B90D-47DC-8717-15AFDE7BFD36}.Debug|x64.Build.0 = Debug|x64
+		{B74BEB24-B90D-47DC-8717-15AFDE7BFD36}.Debug|x86.ActiveCfg = Debug|x86
+		{B74BEB24-B90D-47DC-8717-15AFDE7BFD36}.Debug|x86.Build.0 = Debug|x86
+		{B74BEB24-B90D-47DC-8717-15AFDE7BFD36}.Release|arm64.ActiveCfg = Release|arm64
+		{B74BEB24-B90D-47DC-8717-15AFDE7BFD36}.Release|arm64.Build.0 = Release|arm64
+		{B74BEB24-B90D-47DC-8717-15AFDE7BFD36}.Release|x64.ActiveCfg = Release|x64
+		{B74BEB24-B90D-47DC-8717-15AFDE7BFD36}.Release|x64.Build.0 = Release|x64
+		{B74BEB24-B90D-47DC-8717-15AFDE7BFD36}.Release|x86.ActiveCfg = Release|x86
+		{B74BEB24-B90D-47DC-8717-15AFDE7BFD36}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A56584B2-65C7-42B5-A2A7-DFC65A2B4A9A}
+	EndGlobalSection
+EndGlobal
