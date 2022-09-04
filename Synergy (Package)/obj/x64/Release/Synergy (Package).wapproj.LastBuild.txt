@@ -1,0 +1,53 @@
+C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Release\net6.0-windows10.0.19041.0\Resources\logo.png
+C:\Users\Siddharth\source\repos\Synergy\Synergy (Package)\Images\logo.png
+C:\Users\Siddharth\source\repos\Synergy\Synergy (Package)\Images\SplashScreen.scale-200.png
+C:\Users\Siddharth\source\repos\Synergy\Synergy (Package)\Images\LockScreenLogo.scale-200.png
+C:\Users\Siddharth\source\repos\Synergy\Synergy (Package)\Images\Square150x150Logo.scale-200.png
+C:\Users\Siddharth\source\repos\Synergy\Synergy (Package)\Images\Square44x44Logo.scale-200.png
+C:\Users\Siddharth\source\repos\Synergy\Synergy (Package)\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\Siddharth\source\repos\Synergy\Synergy (Package)\Images\StoreLogo.png
+C:\Users\Siddharth\source\repos\Synergy\Synergy (Package)\Images\Wide310x150Logo.scale-200.png
+C:\Users\Siddharth\source\repos\Synergy\Synergy (Package)\bin\x64\Release\resources.pri
+C:\Users\Siddharth\.nuget\packages\h.notifyicon\2.0.64\lib\net6.0\H.NotifyIcon.dll
+C:\Users\Siddharth\.nuget\packages\h.notifyicon.winui\2.0.64\lib\net6.0-windows10.0.17763\H.NotifyIcon.WinUI.dll
+C:\Users\Siddharth\.nuget\packages\microsoft.win32.systemevents\6.0.0\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Siddharth\.nuget\packages\microsoft.windowsappsdk\1.1.4\lib\net5.0-windows10.0.18362.0\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\Siddharth\.nuget\packages\microsoft.windowsappsdk\1.1.4\lib\net5.0-windows10.0.18362.0\Microsoft.WinUI.dll
+C:\Users\Siddharth\.nuget\packages\microsoft.windowsappsdk\1.1.4\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Users\Siddharth\.nuget\packages\microsoft.windowsappsdk\1.1.4\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Users\Siddharth\.nuget\packages\microsoft.windowsappsdk\1.1.4\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Users\Siddharth\.nuget\packages\microsoft.windowsappsdk\1.1.4\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Users\Siddharth\.nuget\packages\microsoft.windowsappsdk\1.1.4\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Users\Siddharth\.nuget\packages\microsoft.windowsappsdk\1.1.4\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Users\Siddharth\.nuget\packages\microsoft.windowsappsdk\1.1.4\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.System.Power.Projection.dll
+C:\Users\Siddharth\.nuget\packages\microsoft.windowsappsdk\1.1.4\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.System.Projection.dll
+C:\Users\Siddharth\.nuget\packages\microsoft.windowsappsdk\1.1.4\lib\net5.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\Siddharth\.nuget\packages\system.drawing.common\6.0.0\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Siddharth\.nuget\packages\microsoft.win32.systemevents\6.0.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Siddharth\.nuget\packages\microsoft.windowsappsdk\1.1.4\runtimes\win10-arm64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\Siddharth\.nuget\packages\microsoft.windowsappsdk\1.1.4\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\Siddharth\.nuget\packages\microsoft.windowsappsdk\1.1.4\runtimes\win10-x86\native\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\Siddharth\.nuget\packages\system.drawing.common\6.0.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Siddharth\.nuget\packages\system.drawing.common\6.0.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Siddharth\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.26\lib\Microsoft.Windows.SDK.NET.dll
+C:\Users\Siddharth\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.26\lib\WinRT.Runtime.dll
+C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Release\net6.0-windows10.0.19041.0\Synergy.deps.json
+C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Release\net6.0-windows10.0.19041.0\App.xbf
+C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Release\net6.0-windows10.0.19041.0\MainWindow.xbf
+C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Release\net6.0-windows10.0.19041.0\Pages\DownloadPage.xbf
+C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Release\net6.0-windows10.0.19041.0\Pages\RemoteContent.xbf
+C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Release\net6.0-windows10.0.19041.0\Pages\RemotesPage.xbf
+C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Release\net6.0-windows10.0.19041.0\Pages\Scheduler.xbf
+C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Release\net6.0-windows10.0.19041.0\Pages\ServePage.xbf
+C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Release\net6.0-windows10.0.19041.0\Pages\SyncPage.xbf
+C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Release\net6.0-windows10.0.19041.0\Pages\TasksPage.xbf
+C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Release\net6.0-windows10.0.19041.0\Pages\UploadPage.xbf
+C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Release\net6.0-windows10.0.19041.0\ResourceDictionaries\Styles.xbf
+C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Release\net6.0-windows10.0.19041.0\ResourceDictionaries\SysTrayResources.xbf
+C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Release\net6.0-windows10.0.19041.0\Windows\PopUpWindow.xbf
+C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Release\net6.0-windows10.0.19041.0\Windows\SysTray.xbf
+C:\Users\Siddharth\source\repos\Synergy\Synergy\Resources\logo.png
+C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Release\net6.0-windows10.0.19041.0\apphost.exe
+C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Release\net6.0-windows10.0.19041.0\Synergy.runtimeconfig.json
+C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Release\net6.0-windows10.0.19041.0\Synergy.dll
+C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Release\net6.0-windows10.0.19041.0\Synergy.pdb

@@ -1,0 +1,48 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="Synergy.Pages.ServePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Synergy.Pages"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid RowSpacing="5" ColumnSpacing="5" Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.25*"/>
+            <RowDefinition Height="0.25*"/>
+            <RowDefinition Height="0.25*"/>
+            <RowDefinition Height="0.25*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.5*"/>
+            <ColumnDefinition Width="0.5*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock x:ConnectionId='2' Grid.Row="0" Grid.ColumnSpan="2"                                          Foreground="WhiteSmoke"/>
+        <TextBox x:ConnectionId='3' x:Name="uname" PlaceholderText="Username" Grid.Column="0" Grid.Row="2" PlaceholderForeground="Gray"                                 IsEnabled="False"/>
+        <PasswordBox x:ConnectionId='4' x:Name="passwd" PlaceholderText="Password" Grid.Column="1" Grid.Row="2"                                          IsEnabled="False"/>
+        <Grid Grid.Row="1" Grid.ColumnSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.2*"/>
+                <ColumnDefinition Width="0.6*"/>
+                <ColumnDefinition Width="0.2*"/>
+            </Grid.ColumnDefinitions>
+            <ComboBox x:ConnectionId='6' x:Name="protocolDropDown" SelectedIndex="1"                                                     >
+                <ComboBoxItem Content="FTP"/>
+                <ComboBoxItem Content="HTTP"/>
+                <ComboBoxItem Content="WebDAV"/>
+                <ComboBoxItem Content="DLNA"/>
+                <ComboBoxItem Content="SFTP"/>
+                <ComboBoxItem Content="Docker"/>
+                <ComboBoxItem Content="REST API"/>
+            </ComboBox>
+            <TextBox x:ConnectionId='7' Grid.Column="1" x:Name="ipBox" Text="127.0.0.1" PlaceholderForeground="Gray" PlaceholderText="IP Address"                                />
+            <TextBox x:ConnectionId='8' Grid.Column="2" x:Name="portBox" Text="8080" PlaceholderText="Port" PlaceholderForeground="Gray"                                  />
+        </Grid>
+        <Button Content="Advanced" Grid.Column="0" Grid.Row="3" HorizontalAlignment="Left"/>
+        <Button x:ConnectionId='5' x:Name="start_stop" Content="Start" Grid.Column="1" Grid.Row="3" HorizontalAlignment="Right"                    />
+
+    </Grid>
+</Page>
+

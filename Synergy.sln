@@ -5,7 +5,7 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "Synergy (Package)", "Synergy (Package)\Synergy (Package).wapproj", "{79B2764B-B588-43D8-AA44-DB1B1026E385}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Synergy", "Synergy\Synergy.csproj", "{B74BEB24-B90D-47DC-8717-15AFDE7BFD36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Synergy", "Synergy\Synergy.csproj", "{B74BEB24-B90D-47DC-8717-15AFDE7BFD36}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,7 +31,6 @@ Global
 		{79B2764B-B588-43D8-AA44-DB1B1026E385}.Release|arm64.Deploy.0 = Release|arm64
 		{79B2764B-B588-43D8-AA44-DB1B1026E385}.Release|x64.ActiveCfg = Release|x64
 		{79B2764B-B588-43D8-AA44-DB1B1026E385}.Release|x64.Build.0 = Release|x64
-		{79B2764B-B588-43D8-AA44-DB1B1026E385}.Release|x64.Deploy.0 = Release|x64
 		{79B2764B-B588-43D8-AA44-DB1B1026E385}.Release|x86.ActiveCfg = Release|x86
 		{79B2764B-B588-43D8-AA44-DB1B1026E385}.Release|x86.Build.0 = Release|x86
 		{79B2764B-B588-43D8-AA44-DB1B1026E385}.Release|x86.Deploy.0 = Release|x86

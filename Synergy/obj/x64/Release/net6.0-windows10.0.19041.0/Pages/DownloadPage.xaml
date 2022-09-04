@@ -1,0 +1,33 @@
+﻿<Page
+    x:Class="Synergy.Pages.DownloadPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Synergy.Pages"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid RowSpacing="5" ColumnSpacing="5" Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height="0.5*"/>
+        </Grid.RowDefinitions>
+        <Border Grid.Row="0" VerticalAlignment="Center" BorderBrush="#323232" BorderThickness="3" Padding="2" CornerRadius="3">
+            <TextBlock x:ConnectionId='4' x:Name="openedFileorFolder" IsTextSelectionEnabled="False" Text="Select Folder" VerticalAlignment="Center" Padding="1" Foreground="Gray" TextWrapping="WrapWholeWords"/>
+        </Border>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.75*"/>
+                <ColumnDefinition Width="0.25*"/>
+            </Grid.ColumnDefinitions>
+            <StackPanel Orientation="Horizontal" Spacing="5">
+                <Button Content="Advanced" HorizontalAlignment="Left"/>
+                <AppBarSeparator Width="4" Foreground="Transparent"/>
+                <Button x:ConnectionId='3' Content="Open Folder" HorizontalAlignment="Left" VerticalAlignment="Center"                    />
+            </StackPanel>
+            <Button x:ConnectionId='2' Content="Download" HorizontalAlignment="Right" Grid.Column="1"                  x:Name="downloadBtn" IsEnabled="False"/>
+        </Grid>
+    </Grid>
+</Page>
+
