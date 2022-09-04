@@ -15,3 +15,5 @@ Synergy is a backup tool using an rclone backend. It enables running rclone comm
   - Create remotes.
   - Support for miscellaneous rclone commands.
   - Support for encrypted rclone config and more security oriented features.
+
+# The app is still in beta. Many features are incomplete.
