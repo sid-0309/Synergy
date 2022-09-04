@@ -21,6 +21,11 @@ namespace Synergy.Classes
         {
             set { CurrentTasks.Add(value); }
         }
+
+        public System.Diagnostics.Process RemoveTask
+        {
+            set { CurrentTasks.Remove(value); }
+        }
         private Singleton()
         {
 

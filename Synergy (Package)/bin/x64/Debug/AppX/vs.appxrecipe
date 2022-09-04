@@ -1,0 +1,413 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SIDSACER</Machine>
+    <WindowsUser>Siddharth</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>37f21536-5d0a-4774-ad54-289fe179f09c</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Siddharth</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\obj\x64\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\bin\x64\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>29F9B6E4A18EB3AAC59DE1AA912FBAF4DA0C326EB95D898CCE513EADB4FBD895</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>37f21536-5d0a-4774-ad54-289fe179f09c_1.0.0.0_x64__5xkt4m6pxctej</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>37f21536-5d0a-4774-ad54-289fe179f09c_5xkt4m6pxctej!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>37f21536-5d0a-4774-ad54-289fe179f09c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Siddharth</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\bin\x64\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-09-04T13:16:57.180</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2022-09-04T13:15:46.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\MainWindow.xbf">
+      <PackagePath>MainWindow.xbf</PackagePath>
+      <Modified>2022-09-04T13:15:46.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Pages\DownloadPage.xbf">
+      <PackagePath>Pages\DownloadPage.xbf</PackagePath>
+      <Modified>2022-09-04T13:15:46.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Pages\RemoteContent.xbf">
+      <PackagePath>Pages\RemoteContent.xbf</PackagePath>
+      <Modified>2022-09-04T13:15:46.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Pages\RemotesPage.xbf">
+      <PackagePath>Pages\RemotesPage.xbf</PackagePath>
+      <Modified>2022-09-04T13:15:46.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Pages\Scheduler.xbf">
+      <PackagePath>Pages\Scheduler.xbf</PackagePath>
+      <Modified>2022-09-04T13:15:46.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Pages\ServePage.xbf">
+      <PackagePath>Pages\ServePage.xbf</PackagePath>
+      <Modified>2022-09-04T13:15:46.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Pages\SyncPage.xbf">
+      <PackagePath>Pages\SyncPage.xbf</PackagePath>
+      <Modified>2022-09-04T13:15:46.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Pages\TasksPage.xbf">
+      <PackagePath>Pages\TasksPage.xbf</PackagePath>
+      <Modified>2022-09-04T13:15:46.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Pages\UploadPage.xbf">
+      <PackagePath>Pages\UploadPage.xbf</PackagePath>
+      <Modified>2022-09-04T13:15:46.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\ResourceDictionaries\Styles.xbf">
+      <PackagePath>ResourceDictionaries\Styles.xbf</PackagePath>
+      <Modified>2022-09-04T13:15:46.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\ResourceDictionaries\SysTrayResources.xbf">
+      <PackagePath>ResourceDictionaries\SysTrayResources.xbf</PackagePath>
+      <Modified>2022-09-04T13:15:46.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Windows\PopUpWindow.xbf">
+      <PackagePath>Windows\PopUpWindow.xbf</PackagePath>
+      <Modified>2022-09-04T13:15:46.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Windows\SysTray.xbf">
+      <PackagePath>Windows\SysTray.xbf</PackagePath>
+      <Modified>2022-09-04T13:15:46.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Resources\logo.png">
+      <PackagePath>Resources\logo.png</PackagePath>
+      <Modified>2022-08-06T16:48:49.833</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.22621.0\Redist\Debug\x64\ucrtbased.dll">
+      <PackagePath>ucrtbased.dll</PackagePath>
+      <Modified>2022-05-06T10:04:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\Images\logo.png">
+      <PackagePath>Images\logo.png</PackagePath>
+      <Modified>2022-08-06T16:48:49.833</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\Images\SplashScreen.scale-200.png">
+      <PackagePath>Images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-09-03T16:32:21.974</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\Images\LockScreenLogo.scale-200.png">
+      <PackagePath>Images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2022-09-03T16:32:21.972</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\Images\Square150x150Logo.scale-200.png">
+      <PackagePath>Images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-09-03T16:32:21.975</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\Images\Square44x44Logo.scale-200.png">
+      <PackagePath>Images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-09-03T16:32:21.975</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\Images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-09-03T16:32:21.976</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\Images\StoreLogo.png">
+      <PackagePath>Images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-09-03T16:32:21.976</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\Images\Wide310x150Logo.scale-200.png">
+      <PackagePath>Images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-09-03T16:32:21.978</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\bin\x64\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2022-09-04T12:40:30.693</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\.nuget\packages\h.notifyicon\2.0.64\lib\net6.0\H.NotifyIcon.dll">
+      <PackagePath>Synergy\H.NotifyIcon.dll</PackagePath>
+      <Modified>2022-08-23T06:06:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\.nuget\packages\h.notifyicon.winui\2.0.64\lib\net6.0-windows10.0.17763\H.NotifyIcon.WinUI.dll">
+      <PackagePath>Synergy\H.NotifyIcon.WinUI.dll</PackagePath>
+      <Modified>2022-08-23T06:06:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\.nuget\packages\microsoft.win32.systemevents\6.0.0\lib\net6.0\Microsoft.Win32.SystemEvents.dll">
+      <PackagePath>Synergy\Microsoft.Win32.SystemEvents.dll</PackagePath>
+      <Modified>2021-10-22T23:40:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\.nuget\packages\microsoft.windowsappsdk\1.1.4\lib\net5.0-windows10.0.18362.0\Microsoft.InteractiveExperiences.Projection.dll">
+      <PackagePath>Synergy\Microsoft.InteractiveExperiences.Projection.dll</PackagePath>
+      <Modified>2022-08-04T00:41:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\.nuget\packages\microsoft.windowsappsdk\1.1.4\lib\net5.0-windows10.0.18362.0\Microsoft.WinUI.dll">
+      <PackagePath>Synergy\Microsoft.WinUI.dll</PackagePath>
+      <Modified>2022-08-07T18:56:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\.nuget\packages\microsoft.windowsappsdk\1.1.4\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.AppLifecycle.Projection.dll">
+      <PackagePath>Synergy\Microsoft.Windows.AppLifecycle.Projection.dll</PackagePath>
+      <Modified>2022-08-05T17:34:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\.nuget\packages\microsoft.windowsappsdk\1.1.4\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.AppNotifications.Projection.dll">
+      <PackagePath>Synergy\Microsoft.Windows.AppNotifications.Projection.dll</PackagePath>
+      <Modified>2022-08-05T17:34:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\.nuget\packages\microsoft.windowsappsdk\1.1.4\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll">
+      <PackagePath>Synergy\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll</PackagePath>
+      <Modified>2022-08-05T17:34:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\.nuget\packages\microsoft.windowsappsdk\1.1.4\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.Resources.Projection.dll">
+      <PackagePath>Synergy\Microsoft.Windows.ApplicationModel.Resources.Projection.dll</PackagePath>
+      <Modified>2022-08-05T17:34:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\.nuget\packages\microsoft.windowsappsdk\1.1.4\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll">
+      <PackagePath>Synergy\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll</PackagePath>
+      <Modified>2022-08-05T17:34:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\.nuget\packages\microsoft.windowsappsdk\1.1.4\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.PushNotifications.Projection.dll">
+      <PackagePath>Synergy\Microsoft.Windows.PushNotifications.Projection.dll</PackagePath>
+      <Modified>2022-08-05T17:34:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\.nuget\packages\microsoft.windowsappsdk\1.1.4\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.System.Power.Projection.dll">
+      <PackagePath>Synergy\Microsoft.Windows.System.Power.Projection.dll</PackagePath>
+      <Modified>2022-08-05T17:34:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\.nuget\packages\microsoft.windowsappsdk\1.1.4\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.System.Projection.dll">
+      <PackagePath>Synergy\Microsoft.Windows.System.Projection.dll</PackagePath>
+      <Modified>2022-08-05T17:34:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\.nuget\packages\microsoft.windowsappsdk\1.1.4\lib\net5.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
+      <PackagePath>Synergy\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
+      <Modified>2022-08-05T17:34:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\.nuget\packages\system.drawing.common\6.0.0\lib\net6.0\System.Drawing.Common.dll">
+      <PackagePath>Synergy\System.Drawing.Common.dll</PackagePath>
+      <Modified>2021-10-22T23:49:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\.nuget\packages\microsoft.win32.systemevents\6.0.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll">
+      <PackagePath>Synergy\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll</PackagePath>
+      <Modified>2021-10-22T23:40:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\.nuget\packages\microsoft.windowsappsdk\1.1.4\runtimes\win10-arm64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
+      <PackagePath>Synergy\runtimes\win10-arm64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
+      <Modified>2022-08-05T17:34:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\.nuget\packages\microsoft.windowsappsdk\1.1.4\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
+      <PackagePath>Synergy\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
+      <Modified>2022-08-05T17:34:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\.nuget\packages\microsoft.windowsappsdk\1.1.4\runtimes\win10-x86\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
+      <PackagePath>Synergy\runtimes\win10-x86\native\Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
+      <Modified>2022-08-05T17:34:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\.nuget\packages\system.drawing.common\6.0.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll">
+      <PackagePath>Synergy\runtimes\unix\lib\net6.0\System.Drawing.Common.dll</PackagePath>
+      <Modified>2021-10-22T23:51:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\.nuget\packages\system.drawing.common\6.0.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll">
+      <PackagePath>Synergy\runtimes\win\lib\net6.0\System.Drawing.Common.dll</PackagePath>
+      <Modified>2021-10-22T23:48:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.26\lib\Microsoft.Windows.SDK.NET.dll">
+      <PackagePath>Synergy\Microsoft.Windows.SDK.NET.dll</PackagePath>
+      <Modified>2022-06-14T01:02:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.26\lib\WinRT.Runtime.dll">
+      <PackagePath>Synergy\WinRT.Runtime.dll</PackagePath>
+      <Modified>2022-06-14T01:02:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Synergy.deps.json">
+      <PackagePath>Synergy\Synergy.deps.json</PackagePath>
+      <Modified>2022-09-04T12:40:29.619</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\App.xbf">
+      <PackagePath>Synergy\App.xbf</PackagePath>
+      <Modified>2022-09-04T13:15:46.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\MainWindow.xbf">
+      <PackagePath>Synergy\MainWindow.xbf</PackagePath>
+      <Modified>2022-09-04T13:15:46.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\Pages\DownloadPage.xbf">
+      <PackagePath>Synergy\Pages\DownloadPage.xbf</PackagePath>
+      <Modified>2022-09-04T13:15:46.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\Pages\RemoteContent.xbf">
+      <PackagePath>Synergy\Pages\RemoteContent.xbf</PackagePath>
+      <Modified>2022-09-04T13:15:46.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\Pages\RemotesPage.xbf">
+      <PackagePath>Synergy\Pages\RemotesPage.xbf</PackagePath>
+      <Modified>2022-09-04T13:15:46.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\Pages\Scheduler.xbf">
+      <PackagePath>Synergy\Pages\Scheduler.xbf</PackagePath>
+      <Modified>2022-09-04T13:15:46.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\Pages\ServePage.xbf">
+      <PackagePath>Synergy\Pages\ServePage.xbf</PackagePath>
+      <Modified>2022-09-04T13:15:46.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\Pages\SyncPage.xbf">
+      <PackagePath>Synergy\Pages\SyncPage.xbf</PackagePath>
+      <Modified>2022-09-04T13:15:46.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\Pages\TasksPage.xbf">
+      <PackagePath>Synergy\Pages\TasksPage.xbf</PackagePath>
+      <Modified>2022-09-04T13:15:46.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\Pages\UploadPage.xbf">
+      <PackagePath>Synergy\Pages\UploadPage.xbf</PackagePath>
+      <Modified>2022-09-04T13:15:46.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\ResourceDictionaries\Styles.xbf">
+      <PackagePath>Synergy\ResourceDictionaries\Styles.xbf</PackagePath>
+      <Modified>2022-09-04T13:15:46.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\ResourceDictionaries\SysTrayResources.xbf">
+      <PackagePath>Synergy\ResourceDictionaries\SysTrayResources.xbf</PackagePath>
+      <Modified>2022-09-04T13:15:46.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\Windows\PopUpWindow.xbf">
+      <PackagePath>Synergy\Windows\PopUpWindow.xbf</PackagePath>
+      <Modified>2022-09-04T13:15:46.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\Windows\SysTray.xbf">
+      <PackagePath>Synergy\Windows\SysTray.xbf</PackagePath>
+      <Modified>2022-09-04T13:15:46.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\Resources\logo.png">
+      <PackagePath>Synergy\Resources\logo.png</PackagePath>
+      <Modified>2022-08-06T16:48:49.833</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\apphost.exe">
+      <PackagePath>Synergy\Synergy.exe</PackagePath>
+      <Modified>2022-09-04T13:16:56.694</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Synergy.runtimeconfig.json">
+      <PackagePath>Synergy\Synergy.runtimeconfig.json</PackagePath>
+      <Modified>2022-09-04T12:40:29.678</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Synergy.dll">
+      <PackagePath>Synergy\Synergy.dll</PackagePath>
+      <Modified>2022-09-04T13:16:56.686</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\Siddharth\.nuget\packages\microsoft.windowsappsdk\1.0.3\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.0.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.0</Name>
+      <Version>3.469.1654.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.0, MinVersion = 3.469.1654.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Siddharth\.nuget\packages\microsoft.windowsappsdk\1.0.3\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.0.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Siddharth\.nuget\packages\microsoft.windowsappsdk\1.0.3\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.0.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.0</Name>
+      <Version>3.469.1654.0</Version>
+      <Architecture>win32</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.0, MinVersion = 3.469.1654.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Siddharth\.nuget\packages\microsoft.windowsappsdk\1.0.3\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.0.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Siddharth\.nuget\packages\microsoft.windowsappsdk\1.0.3\buildTransitive\..\tools\MSIX\win10-x64\Microsoft.WindowsAppRuntime.1.0.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.0</Name>
+      <Version>3.469.1654.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.0, MinVersion = 3.469.1654.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Siddharth\.nuget\packages\microsoft.windowsappsdk\1.0.3\buildTransitive\..\tools\MSIX\win10-x64\Microsoft.WindowsAppRuntime.1.0.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Siddharth\.nuget\packages\microsoft.windowsappsdk\1.0.3\buildTransitive\..\tools\MSIX\win10-arm64\Microsoft.WindowsAppRuntime.1.0.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.0</Name>
+      <Version>3.469.1654.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.0, MinVersion = 3.469.1654.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Siddharth\.nuget\packages\microsoft.windowsappsdk\1.0.3\buildTransitive\..\tools\MSIX\win10-arm64\Microsoft.WindowsAppRuntime.1.0.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug.UWPDesktop</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug.UWPDesktop, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug.UWPDesktop</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug.UWPDesktop, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug.UWPDesktop</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug.UWPDesktop, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

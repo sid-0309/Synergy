@@ -115,7 +115,13 @@ namespace Synergy.Pages
             {
                 Singleton.Instance.AddTask = process;
             }
+            process.Exited += Process_Exited;
             await process.WaitForExitAsync();
+        }
+
+        private void Process_Exited(object sender, EventArgs e)
+        {
+            Singleton.Instance.RemoveTask = process;
         }
     }
 }

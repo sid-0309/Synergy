@@ -41,7 +41,7 @@
             <TextBox Grid.Column="2" x:Name="portBox" Text="8080" PlaceholderText="Port" PlaceholderForeground="Gray" TextChanged="portBox_TextChanged"/>
         </Grid>
         <Button Content="Advanced" Grid.Column="0" Grid.Row="3" HorizontalAlignment="Left"/>
-        <Button Content="Start" Grid.Column="1" Grid.Row="3" HorizontalAlignment="Right" Click="Start_Serve"/>
+        <Button x:Name="start_stop" Content="Start" Grid.Column="1" Grid.Row="3" HorizontalAlignment="Right" Click="Start_Serve"/>
 
     </Grid>
 </Page>

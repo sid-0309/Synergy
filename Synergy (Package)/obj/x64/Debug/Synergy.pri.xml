@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="Synergy" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://Synergy/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainWindow.xbf" uri="ms-resource://Synergy/Files/MainWindow.xbf">
+				<Candidate type="Path">
+					<Value>MainWindow.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Pages">
+				<NamedResource name="DownloadPage.xbf" uri="ms-resource://Synergy/Files/Pages/DownloadPage.xbf">
+					<Candidate type="Path">
+						<Value>Pages\DownloadPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RemoteContent.xbf" uri="ms-resource://Synergy/Files/Pages/RemoteContent.xbf">
+					<Candidate type="Path">
+						<Value>Pages\RemoteContent.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RemotesPage.xbf" uri="ms-resource://Synergy/Files/Pages/RemotesPage.xbf">
+					<Candidate type="Path">
+						<Value>Pages\RemotesPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Scheduler.xbf" uri="ms-resource://Synergy/Files/Pages/Scheduler.xbf">
+					<Candidate type="Path">
+						<Value>Pages\Scheduler.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ServePage.xbf" uri="ms-resource://Synergy/Files/Pages/ServePage.xbf">
+					<Candidate type="Path">
+						<Value>Pages\ServePage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SyncPage.xbf" uri="ms-resource://Synergy/Files/Pages/SyncPage.xbf">
+					<Candidate type="Path">
+						<Value>Pages\SyncPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TasksPage.xbf" uri="ms-resource://Synergy/Files/Pages/TasksPage.xbf">
+					<Candidate type="Path">
+						<Value>Pages\TasksPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UploadPage.xbf" uri="ms-resource://Synergy/Files/Pages/UploadPage.xbf">
+					<Candidate type="Path">
+						<Value>Pages\UploadPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="ResourceDictionaries">
+				<NamedResource name="Styles.xbf" uri="ms-resource://Synergy/Files/ResourceDictionaries/Styles.xbf">
+					<Candidate type="Path">
+						<Value>ResourceDictionaries\Styles.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SysTrayResources.xbf" uri="ms-resource://Synergy/Files/ResourceDictionaries/SysTrayResources.xbf">
+					<Candidate type="Path">
+						<Value>ResourceDictionaries\SysTrayResources.xbf</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Resources">
+				<NamedResource name="logo.png" uri="ms-resource://Synergy/Files/Resources/logo.png">
+					<Candidate type="Path">
+						<Value>Resources\logo.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Windows">
+				<NamedResource name="PopUpWindow.xbf" uri="ms-resource://Synergy/Files/Windows/PopUpWindow.xbf">
+					<Candidate type="Path">
+						<Value>Windows\PopUpWindow.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SysTray.xbf" uri="ms-resource://Synergy/Files/Windows/SysTray.xbf">
+					<Candidate type="Path">
+						<Value>Windows\SysTray.xbf</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

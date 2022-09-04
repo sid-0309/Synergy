@@ -74,20 +74,42 @@ namespace Synergy.Pages
         }
         async private void Start_Serve(object sender, RoutedEventArgs e)
         {
-            if(username != null && password != null) {
-                process = RcloneProcess.InitializeProcess($"serve {selectedProtocol} {receivedArguments.Source} --addr {ip}:{port} --user {username} --pass {password}");
-
-            }
-            else
+            try
             {
-                process = RcloneProcess.InitializeProcess($"serve {selectedProtocol} \"{receivedArguments.Source}\" --addr {ip}:{port}");
+                if(process.HasExited == false) 
+                { 
+                    process.Kill();
+                    start_stop.Content = "Start";
+                    return;
+                }
+            }
+            catch (NullReferenceException) 
+            {
+                if (username != null && password != null)
+                {
+                    process = RcloneProcess.InitializeProcess($"serve {selectedProtocol} {receivedArguments.Source} --addr {ip}:{port} --user {username} --pass {password}");
+
+                }
+                else
+                {
+                    process = RcloneProcess.InitializeProcess($"serve {selectedProtocol} \"{receivedArguments.Source}\" --addr {ip}:{port}");
+                }
+
+                if (process.Start())
+                {
+                    Singleton.Instance.AddTask = process;
+                    start_stop.Content = "Stop";
+                }
+                process.Exited += Process_Exited;
+                await process.WaitForExitAsync();
             }
 
-            if (process.Start())
-            {
-                Singleton.Instance.AddTask = process;
-            }
-            await process.WaitForExitAsync();
+
+        }
+
+        private void Process_Exited(object sender, EventArgs e)
+        {
+            Singleton.Instance.RemoveTask = process;
         }
 
         private void passwd_PasswordChanged(object sender, RoutedEventArgs e)

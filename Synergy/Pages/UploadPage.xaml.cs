@@ -144,8 +144,17 @@ namespace Synergy.Pages
 
         async private void Upload(object sender, RoutedEventArgs e)
         {
-             process.Start();
+            if (process.Start()) 
+            {
+                Singleton.Instance.AddTask = process;
+            }
+            process.Exited += Process_Exited;
             await process.WaitForExitAsync();
+        }
+
+        private void Process_Exited(object sender, EventArgs e)
+        {
+            Singleton.Instance.RemoveTask = process;
         }
     }
 }
