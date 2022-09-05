@@ -10,7 +10,7 @@
   <Identity
     Name="37f21536-5d0a-4774-ad54-289fe179f09c"
     Publisher="CN=Siddharth"
-    Version="0.1.1.0" />
+    Version="0.1.3.0" />
 
   <Properties>
     <DisplayName>Synergy</DisplayName>
@@ -39,7 +39,6 @@
         Square44x44Logo="Images\Square44x44Logo.png">
         <uap:DefaultTile Wide310x150Logo="Images\Wide310x150Logo.png" />
         <uap:SplashScreen Image="Images\SplashScreen.png" />
-        <uap:LockScreen Notification="badge"/>
       </uap:VisualElements>
     </Application>
   </Applications>

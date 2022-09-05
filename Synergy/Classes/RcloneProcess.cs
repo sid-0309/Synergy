@@ -18,7 +18,8 @@ namespace Synergy.Classes
                 FileName = "cmd.exe",
                 Arguments = $"/c rclone {args}",
                 RedirectStandardOutput = true,
-                CreateNoWindow = false
+                CreateNoWindow = true,
+                WindowStyle = ProcessWindowStyle.Hidden
             };
             Process.StartInfo = StartInfo;
 

@@ -1,0 +1,13 @@
+App.xbf
+MainWindow.xbf
+Pages\DownloadPage.xbf
+Pages\RemoteContent.xbf
+Pages\RemotesPage.xbf
+Pages\Scheduler.xbf
+Pages\ServePage.xbf
+Pages\SyncPage.xbf
+Pages\TasksPage.xbf
+Pages\UploadPage.xbf
+ResourceDictionaries\Styles.xbf
+ResourceDictionaries\SysTrayResources.xbf
+Windows\PopUpWindow.xbf
