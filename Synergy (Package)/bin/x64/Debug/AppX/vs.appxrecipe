@@ -30,7 +30,7 @@
     <AppXManifest Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\bin\x64\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-09-05T07:51:00.550</Modified>
+      <Modified>2022-09-05T08:05:01.225</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -80,7 +80,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\ResourceDictionaries\SysTrayResources.xbf">
       <PackagePath>ResourceDictionaries\SysTrayResources.xbf</PackagePath>
-      <Modified>2022-09-05T07:50:59.400</Modified>
+      <Modified>2022-09-05T08:01:39.305</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Windows\PopUpWindow.xbf">
       <PackagePath>Windows\PopUpWindow.xbf</PackagePath>
@@ -115,127 +115,127 @@
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\Images\Square44x44Logo.altform-lightunplated_targetsize-16.png">
       <PackagePath>Images\Square44x44Logo.altform-lightunplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-09-05T07:46:42.122</Modified>
+      <Modified>2022-09-05T08:01:38.618</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\Images\Square44x44Logo.altform-lightunplated_targetsize-24.png">
       <PackagePath>Images\Square44x44Logo.altform-lightunplated_targetsize-24.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-09-05T07:46:42.122</Modified>
+      <Modified>2022-09-05T08:01:38.619</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\Images\Square44x44Logo.altform-lightunplated_targetsize-256.png">
       <PackagePath>Images\Square44x44Logo.altform-lightunplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-09-05T07:46:42.124</Modified>
+      <Modified>2022-09-05T08:01:38.620</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\Images\Square44x44Logo.altform-lightunplated_targetsize-32.png">
       <PackagePath>Images\Square44x44Logo.altform-lightunplated_targetsize-32.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-09-05T07:46:42.124</Modified>
+      <Modified>2022-09-05T08:01:38.620</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\Images\Square44x44Logo.altform-lightunplated_targetsize-48.png">
       <PackagePath>Images\Square44x44Logo.altform-lightunplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-09-05T07:46:42.125</Modified>
+      <Modified>2022-09-05T08:01:38.621</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\Images\Square44x44Logo.altform-unplated_targetsize-16.png">
       <PackagePath>Images\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-09-05T07:46:42.125</Modified>
+      <Modified>2022-09-05T08:01:38.621</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\Images\Square44x44Logo.altform-unplated_targetsize-256.png">
       <PackagePath>Images\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-09-05T07:46:42.126</Modified>
+      <Modified>2022-09-05T08:01:38.622</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\Images\Square44x44Logo.altform-unplated_targetsize-32.png">
       <PackagePath>Images\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-09-05T07:46:42.126</Modified>
+      <Modified>2022-09-05T08:01:38.623</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\Images\Square44x44Logo.altform-unplated_targetsize-48.png">
       <PackagePath>Images\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-09-05T07:46:42.126</Modified>
+      <Modified>2022-09-05T08:01:38.623</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\Images\Square44x44Logo.scale-100.png">
       <PackagePath>Images\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-09-05T07:46:42.126</Modified>
+      <Modified>2022-09-05T08:01:38.624</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\Images\Square44x44Logo.scale-125.png">
       <PackagePath>Images\Square44x44Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-09-05T07:46:42.126</Modified>
+      <Modified>2022-09-05T08:01:38.625</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\Images\Square44x44Logo.scale-150.png">
       <PackagePath>Images\Square44x44Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-09-05T07:46:42.128</Modified>
+      <Modified>2022-09-05T08:01:38.625</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\Images\Square44x44Logo.scale-200.png">
       <PackagePath>Images\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-09-05T07:46:42.128</Modified>
+      <Modified>2022-09-05T08:01:38.626</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\Images\Square44x44Logo.scale-400.png">
       <PackagePath>Images\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-09-05T07:46:42.128</Modified>
+      <Modified>2022-09-05T08:01:38.627</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\Images\Square44x44Logo.targetsize-16.png">
       <PackagePath>Images\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-09-05T07:46:42.128</Modified>
+      <Modified>2022-09-05T08:01:38.628</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\Images\Square44x44Logo.targetsize-24.png">
       <PackagePath>Images\Square44x44Logo.targetsize-24.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-09-05T07:46:42.129</Modified>
+      <Modified>2022-09-05T08:01:38.629</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\Images\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-09-05T07:46:42.129</Modified>
+      <Modified>2022-09-05T08:01:38.629</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\Images\Square44x44Logo.targetsize-256.png">
       <PackagePath>Images\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-09-05T07:46:42.131</Modified>
+      <Modified>2022-09-05T08:01:38.631</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\Images\Square44x44Logo.targetsize-32.png">
       <PackagePath>Images\Square44x44Logo.targetsize-32.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-09-05T07:46:42.131</Modified>
+      <Modified>2022-09-05T08:01:38.631</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\Images\Square44x44Logo.targetsize-48.png">
       <PackagePath>Images\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-09-05T07:46:42.131</Modified>
+      <Modified>2022-09-05T08:01:38.632</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\Images\StoreLogo.scale-100.png">
       <PackagePath>Images\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-09-05T07:46:42.133</Modified>
+      <Modified>2022-09-05T08:01:38.633</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\Images\StoreLogo.scale-125.png">
       <PackagePath>Images\StoreLogo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-09-05T07:46:42.133</Modified>
+      <Modified>2022-09-05T08:01:38.634</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\Images\StoreLogo.scale-150.png">
       <PackagePath>Images\StoreLogo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-09-05T07:46:42.133</Modified>
+      <Modified>2022-09-05T08:01:38.635</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\Images\StoreLogo.scale-200.png">
       <PackagePath>Images\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-09-05T07:46:42.133</Modified>
+      <Modified>2022-09-05T08:01:38.635</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\Images\StoreLogo.scale-400.png">
       <PackagePath>Images\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-09-05T07:46:42.135</Modified>
+      <Modified>2022-09-05T08:01:38.636</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\Images\Wide310x150Logo.scale-200.png">
       <PackagePath>Images\Wide310x150Logo.scale-200.png</PackagePath>
@@ -244,7 +244,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy %28Package%29\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-09-05T07:51:00.462</Modified>
+      <Modified>2022-09-05T08:05:01.129</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\.nuget\packages\h.notifyicon\2.0.64\lib\net6.0\H.NotifyIcon.dll">
       <PackagePath>Synergy\H.NotifyIcon.dll</PackagePath>
@@ -340,7 +340,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Synergy.deps.json">
       <PackagePath>Synergy\Synergy.deps.json</PackagePath>
-      <Modified>2022-09-05T07:50:59.776</Modified>
+      <Modified>2022-09-05T08:05:00.424</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\App.xbf">
       <PackagePath>Synergy\App.xbf</PackagePath>
@@ -388,7 +388,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\ResourceDictionaries\SysTrayResources.xbf">
       <PackagePath>Synergy\ResourceDictionaries\SysTrayResources.xbf</PackagePath>
-      <Modified>2022-09-05T07:50:59.400</Modified>
+      <Modified>2022-09-05T08:01:39.305</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\Windows\PopUpWindow.xbf">
       <PackagePath>Synergy\Windows\PopUpWindow.xbf</PackagePath>
@@ -400,7 +400,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\obj\x64\Debug\net6.0-windows10.0.19041.0\apphost.exe">
       <PackagePath>Synergy\Synergy.exe</PackagePath>
-      <Modified>2022-09-05T07:50:59.593</Modified>
+      <Modified>2022-09-05T08:05:00.227</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Synergy.runtimeconfig.json">
       <PackagePath>Synergy\Synergy.runtimeconfig.json</PackagePath>
@@ -408,7 +408,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Siddharth\source\repos\Synergy\Synergy\bin\x64\Debug\net6.0-windows10.0.19041.0\Synergy.dll">
       <PackagePath>Synergy\Synergy.dll</PackagePath>
-      <Modified>2022-09-05T07:50:59.587</Modified>
+      <Modified>2022-09-05T08:05:00.203</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
